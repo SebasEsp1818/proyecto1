@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccfcf08d-430a-402d-b01c-4076fea3fdbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problema1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problema_TiposVariables.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entradaDatosconsola.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Estructura_condicional.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entradaDatosconsola.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/entradaDatosconsola.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Kotlin.EntradaDatosconsolaKt.executor": "Run",
+    "Kotlin.Estructura_condicionalKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.Problema1Kt.executor": "Run",
     "Kotlin.Problema_TiposVariablesKt.executor": "Run",
@@ -59,9 +48,16 @@
     "onboarding.tips.debug.path": "C:/Users/Sebastian Espinoza/Documents/kotlin/proyecto1/src/Main.kt"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.EntradaDatosconsolaKt">
+  <component name="RunManager" selected="Kotlin.Estructura_condicionalKt">
     <configuration name="EntradaDatosconsolaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EntradaDatosconsolaKt" />
+      <module name="proyecto1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Estructura_condicionalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Estructura_condicionalKt" />
       <module name="proyecto1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Estructura_condicionalKt" />
         <item itemvalue="Kotlin.EntradaDatosconsolaKt" />
         <item itemvalue="Kotlin.Problema_TiposVariablesKt" />
         <item itemvalue="Kotlin.Problema1Kt" />
