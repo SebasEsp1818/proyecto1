@@ -60,7 +60,7 @@ println("El promedio es de $promedio")
 
 */
 //Problema 5
-
+/*
     println("cuantos digitos tiene tu numero?")
     val numero = readln().toInt()
     if (numero >= 10) {
@@ -68,6 +68,11 @@ println("El promedio es de $promedio")
     } else {
         println("El numero contiene un digito")
     }
+    */
+
+
+
+
 }
 
 
