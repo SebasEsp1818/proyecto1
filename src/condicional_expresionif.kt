@@ -1,5 +1,4 @@
-fun main()
- {
+fun main() {
     /*
     print("Ingrese primer valor:")
     val valor1 = readln().toInt()
@@ -7,8 +6,8 @@ fun main()
     val valor2 = readln().toInt()
     val mayor = if(valor1 > valor2) valor1 else valor2
     println("El mayor entre $valor1 y $valor2 es $mayor")
-    */
-    /*
+
+
     //Problema 2
     print("Ingrese un valor entero:")
     val valor = readln().toInt()
@@ -20,8 +19,7 @@ fun main()
          valor * valor * valor
      }
     print(resultado)
-     */
-    /*
+
     //Problema propuesto
     print("Ingrese un numero entre el 1 y el 99:")
      val numero = readln().toInt()
@@ -30,7 +28,7 @@ fun main()
      }else {
          println("El numero tiene un digito")
      }
-     /*
 
  }
+*/
 }
