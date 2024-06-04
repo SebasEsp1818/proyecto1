@@ -86,7 +86,7 @@ fun main() {
                 print("Esta en el tercer cuadrante")
             else
                 if (x > 0 && y < 0)
-                    print("Esta en el cuarto cuadrante")
+    print("Esta en el cuarto cuadrante")
                 else
                     print("Esta en un eje")
     */
@@ -98,9 +98,9 @@ fun main() {
      print("Ingrese tercer valor:")
      val valor3 = readln().toInt()
      val menor = if (valor1 < valor2 && valor1 < valor3)
-     valor1 else if (valor2 < valor3) valor2 else valor3
+      else if (valor2 < valor3) valor2 else valor3
      val mayor = if (valor1 > valor2 && valor1 > valor3)
-     valor1 else if (valor2 > valor3) valor2 else valor3
+     else if (valor2 > valor3) valor2 else valor3
      print("El mayor de la lista es $mayor y el menor $menor")
  */
 
