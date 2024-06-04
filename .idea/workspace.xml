@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccfcf08d-430a-402d-b01c-4076fea3fdbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Estructura_condicional_anidadas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condiciones_compuesta.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condicional_expresionif.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicional_expresionif.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Kotlin.Condicional_expresionifKt.executor": "Run",
+    "Kotlin.Condiciones_compuestaKt.executor": "Run",
     "Kotlin.EntradaDatosconsolaKt.executor": "Run",
     "Kotlin.Estructura_condicionalKt.executor": "Run",
     "Kotlin.Estructura_condicional_anidadasKt.executor": "Run",
@@ -50,9 +50,16 @@
     "onboarding.tips.debug.path": "C:/Users/Sebastian Espinoza/Documents/kotlin/proyecto1/src/Main.kt"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Estructura_condicional_anidadasKt">
+  <component name="RunManager" selected="Kotlin.Condiciones_compuestaKt">
     <configuration name="Condicional_expresionifKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Condicional_expresionifKt" />
+      <module name="proyecto1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Condiciones_compuestaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Condiciones_compuestaKt" />
       <module name="proyecto1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,20 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problema_TiposVariablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problema_TiposVariablesKt" />
-      <module name="proyecto1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Condiciones_compuestaKt" />
         <item itemvalue="Kotlin.Estructura_condicional_anidadasKt" />
         <item itemvalue="Kotlin.Condicional_expresionifKt" />
         <item itemvalue="Kotlin.Estructura_condicionalKt" />
         <item itemvalue="Kotlin.EntradaDatosconsolaKt" />
-        <item itemvalue="Kotlin.Problema_TiposVariablesKt" />
       </list>
     </recent_temporary>
   </component>

@@ -42,6 +42,19 @@ print("El  numero mayor es :" + num3)
     else if(num1  > num2)
 print("El numero mayor es :" + num3)
 */
+    print("Ingrese cantidad de total de preguntas:")
+    val cantidad1 =  readln().toInt()
+    print("Ingrese cantidad de pregunats contestadas correctamente:")
+    val cantidad2 = readln().toInt()
+    val promedio  : Float = cantidad2/cantidad1.toFloat()
+    if (promedio >= 0.9)
+        print ("Nivel máximo")
+    if(promedio >= 0.75 && promedio < 0.9)
+        print("Nivel medio")
+    if(promedio >= 0.50 && promedio< 0.75)
+        print("Nivel regular")
+    else
+        print("Fuera de nivel")
 
 
 
