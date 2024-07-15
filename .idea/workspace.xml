@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccfcf08d-430a-402d-b01c-4076fea3fdbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/estructura_repetitiva_while.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Estructura_condicional_when/problema_propuesto1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Estructura_condicional_when/problema_propuesto2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Estructura_condicional_when/problema_propuesto3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Estructura_condicional_when/proyecto59.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Estructura_condicional_when/proyecto60.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Estructura_condicional_when/proyecto61.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Estructura_condicional_when/proyecto62.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Estructuctura_repetitiva while.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Estructuctura_repetitiva while.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -34,24 +42,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Kotlin.Condicional_expresionifKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Condiciones_compuestaKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.EntradaDatosconsolaKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Estructuctura_repetitiva_whileKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Estructura_condicionalKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Estructura_condicional_anidadasKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problema1Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problema_TiposVariablesKt.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Sebastian Espinoza/Documents/kotlin/proyecto1/src/Main.kt&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.Condicional_expresionifKt.executor": "Run",
+    "Kotlin.Condiciones_compuestaKt.executor": "Run",
+    "Kotlin.EntradaDatosconsolaKt.executor": "Run",
+    "Kotlin.Estructuctura_repetitiva_whileKt.executor": "Run",
+    "Kotlin.Estructura_condicionalKt.executor": "Run",
+    "Kotlin.Estructura_condicional_anidadasKt.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "Kotlin.Problema1Kt.executor": "Run",
+    "Kotlin.Problema_TiposVariablesKt.executor": "Run",
+    "Kotlin.Proyecto62Kt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Sebastian Espinoza/Documents/kotlin/proyecto1/src/Main.kt"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.Estructuctura_repetitiva_whileKt">
+}]]></component>
+  <component name="RunManager" selected="Kotlin.Proyecto62Kt">
     <configuration name="Condicional_expresionifKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Condicional_expresionifKt" />
       <module name="proyecto1" />
@@ -73,13 +82,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Estructura_condicionalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Estructura_condicionalKt" />
-      <module name="proyecto1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Estructura_condicional_anidadasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Estructura_condicional_anidadasKt" />
       <module name="proyecto1" />
@@ -87,13 +89,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Proyecto62Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Estructura_condicional_when.Proyecto62Kt" />
+      <module name="proyecto1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Proyecto62Kt" />
         <item itemvalue="Kotlin.Estructuctura_repetitiva_whileKt" />
         <item itemvalue="Kotlin.Condiciones_compuestaKt" />
         <item itemvalue="Kotlin.Estructura_condicional_anidadasKt" />
         <item itemvalue="Kotlin.Condicional_expresionifKt" />
-        <item itemvalue="Kotlin.Estructura_condicionalKt" />
       </list>
     </recent_temporary>
   </component>
