@@ -2,8 +2,8 @@ package Estructura_condicional_when
 
 fun main (){
     var equilatero = 0
-    var isosceles = 0
-    var escaleno = 0
+    var isosceles =  0
+    var escaleno =   0
     print("Ingrese la cantidad de triangulos que desea ingresar con los datos de sus lados:")
     val n = readln().toInt()
     for (i in 1 ..n){
