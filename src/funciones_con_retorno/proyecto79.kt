@@ -1,7 +1,7 @@
 package funciones_con_retorno
 fun retornarSuperficie(lado: Int): Int {
-}
-}
+
+
 val sup = lado * lado
 return sup
 fun main(parametro: Array<String>) {
@@ -9,3 +9,4 @@ fun main(parametro: Array<String>) {
     val la = readln().toInt()
     val superficie = retornarSuperficie(la)
     println("La superficie del cuadrado es $superficie")
+}
