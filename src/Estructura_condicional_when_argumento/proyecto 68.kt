@@ -8,7 +8,7 @@ fun main(){
     val valor = readln().toInt()
     when (valor){
         0-> cant1+++
-        1, 5 ,10 -> cant2++ //contadores
+         5 ,10 -> cant2++ //contadores
        }
     }
     println("Cantiad de numeros 0 ingresados: $cant1")
