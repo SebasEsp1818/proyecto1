@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccfcf08d-430a-402d-b01c-4076fea3fdbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arreglos/problemas_propuestos.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglos/problemas_propuestos2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglos/proyecto100.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglos/proyecto101.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglos/proyecto102.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglos/proyecto98.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglos/proyecto99.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglos/problema 2.1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones_tipo_arreglo/proyecto105.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones_tipo_arreglo/proyecto106.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Estructura_condicional_when_argumento/proyecto 68.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Estructura_condicional_when_argumento/proyecto 68.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arreglos/problemas_propuestos2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/arreglos/problemas_propuestos2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -19,7 +19,7 @@ fun main() {
 
     // Sumar los arreglos
     for (i in arreglo1.indices) {
-        sumaArreglos[i] = arreglo1[i] + arreglo2[i]
+        sumaArreglos[i] = arreglo1i + arreglo2[i]
     }
 
     println("Resultado de la suma de los dos arreglos:")
