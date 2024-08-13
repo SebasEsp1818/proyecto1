@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccfcf08d-430a-402d-b01c-4076fea3fdbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Conceptos_POO/problema_propuesto.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos_POO/proyecto109.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos_POO/proyecto110.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO_Llamada_metodos/problema_propuesto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO_Llamada_metodos/proyecto117.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructores/problemas_propuestos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructores/proyecto112.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructores/proyecto113.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructores/proyecto114.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conceptos_POO/problema_propuesto.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conceptos_POO/problema_propuesto.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +57,7 @@
     "Kotlin.Problema_propuestoKt.executor": "Run",
     "Kotlin.Problemas_propuestosKt.executor": "Run",
     "Kotlin.Proyecto109Kt.executor": "Run",
+    "Kotlin.Proyecto112Kt.executor": "Run",
     "Kotlin.Proyecto62Kt.executor": "Run",
     "Kotlin.Proyecto99Kt.executor": "Run",
     "Kotlin.Proyecto_66Kt.executor": "Run",
@@ -62,7 +67,12 @@
     "onboarding.tips.debug.path": "C:/Users/Sebastian Espinoza/Documents/kotlin/proyecto1/src/Main.kt"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Problema_propuestoKt (1)">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sebastian Espinoza\Documents\kotlin\proyecto1\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Problemas_propuestosKt">
     <configuration name="Problema_propuestoKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conceptos_POO.Problema_propuestoKt" />
       <module name="proyecto1" />
@@ -70,15 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problema_propuestoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Funciones_parametros_valor_por_defecto.Problema_propuestoKt" />
-      <module name="proyecto1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Problemas_propuestosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Estructura_condicional_when_argumento.Problemas_propuestosKt" />
+      <option name="MAIN_CLASS_NAME" value="constructores.Problemas_propuestosKt" />
       <module name="proyecto1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,6 +89,13 @@
     </configuration>
     <configuration name="Proyecto109Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conceptos_POO.Proyecto109Kt" />
+      <module name="proyecto1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Proyecto112Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructores.Proyecto112Kt" />
       <module name="proyecto1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Problemas_propuestosKt" />
+        <item itemvalue="Kotlin.Proyecto112Kt" />
         <item itemvalue="Kotlin.Problema_propuestoKt (1)" />
         <item itemvalue="Kotlin.Proyecto109Kt" />
         <item itemvalue="Kotlin.Proyecto99Kt" />
-        <item itemvalue="Kotlin.Problema_propuestoKt" />
-        <item itemvalue="Kotlin.Problemas_propuestosKt" />
       </list>
     </recent_temporary>
   </component>

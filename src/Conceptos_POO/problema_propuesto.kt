@@ -5,7 +5,6 @@ class Alumno {
     var nota: Int = 0
 
     fun inicializar() {
-        val input = Scanner(System.in)
         print("Ingrese el nombre del alumno: ")
         nombre = readln().toInt()
         print("Ingrese la nota del alumno: ")
