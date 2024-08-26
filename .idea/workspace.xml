@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccfcf08d-430a-402d-b01c-4076fea3fdbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/POO_Llamada_metodos/problema_propuesto.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO_Llamada_metodos/proyecto117.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructores/problemas_propuestos.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructores/proyecto112.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructores/proyecto113.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructores/proyecto114.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colaboracion_de_clases/problema_propuesto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colaboracion_de_clases/proyecto119.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colaboracion_de_clases/proyecto120.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modificadores_private_public/problema_propuesto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modificadores_private_public/proyecto122.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modificadores_private_public/proyecto123.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conceptos_POO/problema_propuesto.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conceptos_POO/problema_propuesto.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +57,8 @@
     "Kotlin.Problemas_propuestosKt.executor": "Run",
     "Kotlin.Proyecto109Kt.executor": "Run",
     "Kotlin.Proyecto112Kt.executor": "Run",
+    "Kotlin.Proyecto119Kt.executor": "Run",
+    "Kotlin.Proyecto120Kt.executor": "Run",
     "Kotlin.Proyecto62Kt.executor": "Run",
     "Kotlin.Proyecto99Kt.executor": "Run",
     "Kotlin.Proyecto_66Kt.executor": "Run",
@@ -72,7 +73,7 @@
       <recent name="C:\Users\Sebastian Espinoza\Documents\kotlin\proyecto1\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Problemas_propuestosKt">
+  <component name="RunManager" selected="Kotlin.Proyecto120Kt">
     <configuration name="Problema_propuestoKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conceptos_POO.Problema_propuestoKt" />
       <module name="proyecto1" />
@@ -87,13 +88,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Proyecto109Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conceptos_POO.Proyecto109Kt" />
-      <module name="proyecto1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Proyecto112Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="constructores.Proyecto112Kt" />
       <module name="proyecto1" />
@@ -101,8 +95,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Proyecto99Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arreglos.Proyecto99Kt" />
+    <configuration name="Proyecto119Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colaboracion_de_clases.Proyecto119Kt" />
+      <module name="proyecto1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Proyecto120Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colaboracion_de_clases.Proyecto120Kt" />
       <module name="proyecto1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Proyecto120Kt" />
+        <item itemvalue="Kotlin.Proyecto119Kt" />
         <item itemvalue="Kotlin.Problemas_propuestosKt" />
         <item itemvalue="Kotlin.Proyecto112Kt" />
         <item itemvalue="Kotlin.Problema_propuestoKt (1)" />
-        <item itemvalue="Kotlin.Proyecto109Kt" />
-        <item itemvalue="Kotlin.Proyecto99Kt" />
       </list>
     </recent_temporary>
   </component>
