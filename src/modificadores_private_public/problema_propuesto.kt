@@ -6,6 +6,7 @@ class clase {
         cargar()
     }
 
+
     private fun cargar() {
         for(i in arre.indices)
             arre[i] = ((Math.random() * 11)).toInt()
@@ -34,7 +35,7 @@ class clase {
     }
 }
 
-fun main(parametro: Array<String>) {
+fun main() {
     val vector1 = clase()
     vector1.imprimir()
     vector1.mayor()
